@@ -1,2 +1,2 @@
 # docket
-A simple organizaer App built with React
+A simple organizer App built with React
