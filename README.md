@@ -1,2 +1,2 @@
 # docket
-Created with CodeSandbox
+A simple organizaer App built with React
